@@ -1,3 +1,42 @@
+🧪 React Quiz
+A simple React application that helps React developers to test on their react knowledge.
+
+# This project is designed to demonstrate core React fundamentals using a practical, real-world example.
+
+# Features
+User can start the quiz.
+Contains 15 react questions and each question has 4 options and only option can be selected as correct answer, the three other options are incorrect.
+Each Question has a specific points to score if answered correctly. All the scores will be during the quiz and after completion of the quiz.
+There is a progress bar to track the number of questions answered and the total score.
+There is a timer that starts at the begining of the quiz and finishes the test automatically after the time completion.
+User can restart the quiz. 
+Simple and user-friendly UI.
+
+🛠️ Tech Stack
+React
+JavaScript (ES6+)
+JSX
+CSS
+HTML
+📚 React Concepts Used
+This project showcases fundamental React concepts, including:
+
+Component-based architecture
+Props and Children features
+State management using useState hook
+State management using useReducer() hook
+useEffect Hook
+Parent–child communication
+Lifting State up
+Conditional rendering
+Handling user events
+📂 Project Structure
+public/ ├── index.html 
+src/ │── components/ │ ├── App.js │ ├── Error.js │ ├── FinishScreen.js │ ├── Footer.js │ ├── Header.js │ ├── Loader.js │── Main.js │── NextButton.js │── Options.js │── Progress.js │── Questions.js │── StartScreen.js │── Timer.js.
+│── Index.css │── index.js 
+
+🔗 Link to live demo:
+Coming soon...
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
