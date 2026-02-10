@@ -1,7 +1,11 @@
+          
 # React Quiz
 A  React application that helps React developers can test on their react knowledge.
 
 This project is designed to demonstrate core React fundamentals using a practical, real-world example.
+
+# 🎮 Live Demo
+👉 [Try the React Quiz here](https://salehi-nawroz.github.io/React-Quiz)
 
 # Features
 * Users can start the quiz.
@@ -64,8 +68,7 @@ This project showcases fundamental React concepts, including:
   - index.css
   - index.js
 
-# 🔗 Link to live demo:
-Coming soon...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
